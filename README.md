@@ -49,7 +49,7 @@ A modern, full-stack web application that converts natural language task descrip
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/natural-language-task-manager.git
-   cd natural-language-task-manager
+   cd Enterprise-Grade-To-Do-List
    ```
 
 2. Install dependencies:
